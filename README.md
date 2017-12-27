@@ -21,7 +21,7 @@ Simple Method for making a roll20 token.  Took about 2 hours to program beginnin
 
 4. Run it!
 
-![Archer done](https://github.com/NeverForged/Roll20Tokens/blob/master/test_archer/test.png)
+![Archer done](https://github.com/NeverForged/Roll20Tokens/blob/master/test_archer/Test.png)
 
 ## Notes
 * You need Python to run this.  I wrote this in 3, though it should work in 2.
