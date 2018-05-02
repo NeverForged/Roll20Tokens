@@ -26,5 +26,6 @@ Simple Method for making a roll20 token.  Took about 2 hours to program beginnin
 ## Notes
 * You need Python to run this.  I wrote this in 3, though it should work in 2.
 * There is a color guide at the end of the notebook.  Darker colors end up going "over" and leave red on the image.  I could probably fix this, and may in a later version.
+-Fixed!
 * This is based on a 400 by 400 pixel image, which will be the "fighting space" of your token (5 ft for standard tokens of humans, etc.)  Image is way larger than it needs to be, which is okay.  You can reduce it before you upload if worried about space.
 * Note that [Hero Forge](https://www.heroforge.com) also has a prone pose, which is good if you want to show downed people.
